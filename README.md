@@ -160,3 +160,51 @@ An advanced AI-powered desktop assistant developed using Python.
 - Window Control
 - Keyboard & Mouse Automation
 
+### Technologies
+
+- Python
+- OpenAI API
+- SpeechRecognition
+- PyAutoGUI
+
+### GitHub Repository
+
+https://github.com/Anmolkumar108/Sanskari-AI-Assistant
+
+---
+
+## 🧮 AI Calculator App
+
+A modern multi-functional desktop calculator built using Python.
+
+### Features
+
+- Normal Calculator
+- Scientific Calculator
+- GST Calculator
+- Discount Calculator
+- BMI Calculator
+- Currency Converter
+- Unit Converter
+- Area Calculator
+- Length Converter
+- Temperature Calculator
+- DOB Calculator
+- Voice Assistant
+- AI Section
+- SQLite Database
+- History Management
+
+### Technologies
+
+- Python
+- CustomTkinter
+- SQLite3
+- Pyttsx3
+
+### GitHub Repository
+
+https://github.com/Anmolkumar108/Calculator-App-Py
+
+---
+
