@@ -296,3 +296,22 @@ It motivates me to build more useful and professional projects.
 
 ---
 
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+## ❤️ Designed & Developed by Anmol Kumar
+
+**BCA Student • Python Developer • Aspiring AI Engineer**
+
+📍 Patna, Bihar, India
+
+**Open to Internship Opportunities • Open Source Collaboration**
+
+⭐ Thank you for visiting my Portfolio Repository!
+
+</div>
