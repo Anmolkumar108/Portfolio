@@ -37,4 +37,21 @@ const contactForm = document.getElementById("contact-form");
 contactForm.addEventListener("submit", function (e) {
     e.preventDefault();
 
-    
+    emailjs.sendForm(
+        "service_uzy3khp",
+        "template_16s0grs",
+        this
+    ).then(() => {
+
+        alert("✅ Message sent successfully!");
+
+        contactForm.reset();
+
+    }).catch((error) => {
+
+        alert("❌ Failed to send message.");
+
+        console.error(error);
+
+    });
+});
