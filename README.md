@@ -208,3 +208,17 @@ https://github.com/Anmolkumar108/Calculator-App-Py
 
 ---
 
+# 👨‍🎓 Education
+
+## Bachelor of Computer Applications (BCA)
+
+**Sityog Institute of Technology, Aurangabad**
+
+**Affiliated to Aryabhatta Knowledge University, Patna**
+
+📅 2025 – 2028
+
+🎯 Current CGPA: **8.81**
+
+---
+
