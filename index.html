@@ -983,27 +983,19 @@
 
             <h3>Send Message</h3>
 
-            <form>
+            <form id="contact-form">
 
                 <div class="input-group">
 
-                    <input
-                        type="text"
-                        placeholder="Your Name">
+                    <input type="text" name="name" id="name" placeholder="Your Name" required>
 
-                    <input
-                        type="email"
-                        placeholder="Your Email">
+                    <input type="email" name="email" id="email" placeholder="Your Email" required>
 
                 </div>
 
-                <input
-                    type="text"
-                    placeholder="Subject">
+                <input type="text" name="subject" id="subject" placeholder="Subject" required>
 
-                <textarea
-                    rows="7"
-                    placeholder="Write your message..."></textarea>
+                <textarea name="message" id="message" rows="7" placeholder="Write your message..." required></textarea>
 
                 <button type="submit">
 
@@ -1021,10 +1013,27 @@
 
 </div>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2026 Anmol Kumar. All rights reserved.</p>
+    </section>
+
+    <!-- Updated Premium Footer Content -->
+    <footer class="footer">
+
+        <div class="footer-content">
+
+            <h3>Designed &amp; Developed with ❤️ by Anmol Kumar</h3>
+
+            <p>BCA Student • Python Developer • Aspiring AI Engineer</p>
+
+            <p><i class="fa-solid fa-location-dot"></i> Patna, Bihar, India</p>
+
+            <p>Open to Internship Opportunities • Open Source Collaboration</p>
+
         </div>
+
+        <div class="footer-bottom">
+            <p>© 2026 Anmol Kumar. All Rights Reserved.</p>
+        </div>
+
     </footer>
 
     <script
@@ -1046,6 +1055,7 @@
     <script src="assets/js/particles.js"></script>
     <script src="assets/js/cursor.js"></script>
     <script src="assets/js/animations.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
     <script src="assets/js/script.js"></script>
 
 </body>

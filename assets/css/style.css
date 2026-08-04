@@ -1622,3 +1622,44 @@ section{
     box-shadow:0 15px 30px rgba(59,130,246,.35);
 
 }
+
+/*==================================
+            FOOTER
+==================================*/
+
+.footer{
+    padding:40px 8%;
+    border-top:1px solid rgba(255,255,255,.08);
+    text-align:center;
+    background:rgba(10,15,35,.45);
+    backdrop-filter:blur(12px);
+}
+
+.footer-content h3{
+    font-size:28px;
+    font-weight:700;
+    margin-bottom:15px;
+    color:#fff;
+}
+
+.footer-content p{
+    color:#bfc7d5;
+    font-size:16px;
+    margin:10px 0;
+}
+
+.footer-content i{
+    color:#00d4ff;
+    margin-right:8px;
+}
+
+.footer-bottom{
+    margin-top:25px;
+    padding-top:20px;
+    border-top:1px solid rgba(255,255,255,.08);
+}
+
+.footer-bottom p{
+    color:#8c93a8;
+    font-size:15px;
+}
