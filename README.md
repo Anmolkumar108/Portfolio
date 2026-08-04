@@ -107,3 +107,56 @@ A modern, responsive, and interactive portfolio website built using **HTML, CSS,
 
 ---
 
+# 📂 Folder Structure
+
+```text
+Portfolio/
+│
+├── assets/
+│   │
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── responsive.css
+│   │   ├── variables.css
+│   │   └── animations.css
+│   │
+│   ├── js/
+│   │   ├── script.js
+│   │   ├── typing.js
+│   │   ├── animations.js
+│   │   ├── particles.js
+│   │   └── cursor.js
+│   │
+│   ├── images/
+│   │   ├── profile.png
+│   │   └── preview/
+│   │       ├── home.png
+│   │       ├── about-skills.png
+│   │       ├── projects.png
+│   │       ├── education-certifications.png
+│   │       └── contact.png
+│   │
+│   └── resume/
+│       └── resume.pdf
+│
+├── index.html
+└── README.md
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Sanskari AI Assistant
+
+An advanced AI-powered desktop assistant developed using Python.
+
+### Features
+
+- Voice Commands
+- Smart AI Responses
+- Google Search
+- Weather Updates
+- Window Control
+- Keyboard & Mouse Automation
+
