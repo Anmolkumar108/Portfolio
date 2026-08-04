@@ -4,4 +4,14 @@ window.addEventListener("scroll",()=>{
 
     if(window.scrollY>50){
 
-       
+        header.style.background="rgba(5,8,22,.92)";
+
+    }
+
+    else{
+
+        header.style.background="rgba(5,8,22,.65)";
+
+    }
+
+    
