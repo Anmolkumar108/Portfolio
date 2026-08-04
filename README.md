@@ -242,3 +242,25 @@ https://github.com/Anmolkumar108/Calculator-App-Py
 
 ---
 
+# 📜 Certifications
+
+- 🎖️ Secondary School Certificate
+- 🎖️ Senior Secondary School Certificate
+- 🎖️ ADCA Certification
+- 🏆 College Hackathon Participation Certificate
+
+---
+
+# 💻 Technical Skills
+
+- C
+- C++
+- Python
+- Data Structures & Algorithms (Python)
+- Git
+- GitHub
+- MS Excel
+- MS Word
+
+---
+
