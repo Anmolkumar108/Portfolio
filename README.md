@@ -222,3 +222,23 @@ https://github.com/Anmolkumar108/Calculator-App-Py
 
 ---
 
+## Senior Secondary School
+
+**Janta High School, Sirari, Sheikhpura**
+
+📅 Completed: **2025**
+
+📊 Percentage: **65%**
+
+---
+
+## Secondary School
+
+**Shri Sitaram Radheshyam High School, Mahsaura, Lakhisarai**
+
+📅 Completed: **2023**
+
+📊 Percentage: **67%**
+
+---
+
