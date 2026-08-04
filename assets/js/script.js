@@ -24,3 +24,17 @@ window.addEventListener("scroll",()=>{
 
 });
 
+/*==================================
+        EMAIL JS
+==================================*/
+
+emailjs.init({
+    publicKey: "3sHymfO2y8zllXZ_G",
+});
+
+const contactForm = document.getElementById("contact-form");
+
+contactForm.addEventListener("submit", function (e) {
+    e.preventDefault();
+
+    
