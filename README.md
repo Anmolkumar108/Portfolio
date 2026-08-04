@@ -264,3 +264,27 @@ https://github.com/Anmolkumar108/Calculator-App-Py
 
 ---
 
+# 📬 Contact
+
+📧 **Email**
+
+**akanmolbhumihar09@gmail.com**
+
+📍 **Location**
+
+Patna, Bihar, India
+
+---
+
+# 🤝 Connect With Me
+
+### GitHub
+
+https://github.com/Anmolkumar108
+
+### LinkedIn
+
+https://www.linkedin.com/in/anmol-singh-361b90343/
+
+---
+
