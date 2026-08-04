@@ -19,3 +19,91 @@ A modern, responsive, and interactive portfolio website built using **HTML, CSS,
 
 ---
 
+# 🌍 Live Demo
+
+### 🔗 Portfolio Website
+
+**https://anmolkumar108.github.io/Portfolio/**
+
+---
+
+# 📸 Portfolio Preview
+
+## 🏠 Home
+
+<p align="center">
+<img src="assets/images/preview/home.png" width="100%">
+</p>
+
+---
+
+## 👨 About & Skills
+
+<p align="center">
+<img src="assets/images/preview/about-skills.png" width="100%">
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+<img src="assets/images/preview/projects.png" width="100%">
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+<p align="center">
+<img src="assets/images/preview/education-certifications.png" width="100%">
+</p>
+
+---
+
+## 📩 Contact
+
+<p align="center">
+<img src="assets/images/preview/contact.png" width="100%">
+</p>
+
+---
+
+# ✨ Features
+
+- 🌟 Premium Modern UI
+- 📱 Fully Responsive Design
+- 🎨 Beautiful Dark Theme
+- ✨ Smooth Animations
+- 🖱️ Interactive Hover Effects
+- 💻 About Me Section
+- 📊 Skill Progress Bars
+- 🚀 Featured Projects
+- 🎓 Education Timeline
+- 📜 Certifications
+- 📩 Working Contact Form (EmailJS)
+- 🌐 GitHub & LinkedIn Integration
+- ⚡ Fast Loading
+- 🔥 Professional Portfolio Layout
+
+---
+
+# 🛠️ Technologies Used
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+### Libraries
+
+- AOS Animation
+- Vanilla Tilt
+- Typed.js
+- GSAP
+- Font Awesome
+- EmailJS
+
+---
+
