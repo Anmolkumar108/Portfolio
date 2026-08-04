@@ -288,3 +288,11 @@ https://www.linkedin.com/in/anmol-singh-361b90343/
 
 ---
 
+# ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
+
+It motivates me to build more useful and professional projects.
+
+---
+
